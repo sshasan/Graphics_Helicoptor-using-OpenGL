@@ -19,3 +19,4 @@ Control ------------------
 --> Use left, right, Top, Down arrows to move the Helicoptor
 --> When nothing is pressed Helicoptor will auto metically move down.
 --> 1,2,3 keys can be used to change the speed of the fan.
+ 
